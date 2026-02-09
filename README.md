@@ -14,5 +14,5 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-👉 https://YOUR_USERNAME.github.io/rock-paper-scissors/
+👉  https://saish-3.github.io/rockpaperscissor-minip/
 
